@@ -111,7 +111,7 @@ knn-python/
 ### Setup
 Clone or download the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/knn-python.git
+git clone https://github.com/lakshyaraj2006/knn-python.git
 cd knn-python
 ```
 
